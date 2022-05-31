@@ -1,4 +1,4 @@
-.intro__list_item_normal {
+.intro__item_normal {
     font-weight: 400;
     padding: 0;
     margin: 0;
