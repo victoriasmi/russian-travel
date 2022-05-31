@@ -1,5 +1,5 @@
 .photo-grid {
-    display: grid;  
+    display: grid;
     grid-template-columns: repeat(4,minmax(min-content, 1fr));
     grid-template-rows: repeat(3, auto);
     gap: 16px;
@@ -21,7 +21,7 @@
   
   @media (max-width: 1023px) {
     .photo-grid {
-        min-width: 720px; 
+        min-width: 720px;
         grid-template-columns: repeat(2,minmax(min-content, 1fr));
         grid-template-rows: repeat(6, auto);
         grid-gap: 16px;

@@ -7,7 +7,7 @@
     grid-template-rows: repeat(2, max-content);
     grid-template-areas:
   "places__place_title places__place_website"
-  "places__place_image places__place_paragraph"
+  "places__place_image places__place_paragraph";
 }
 
 .places__place:last-of-type{
