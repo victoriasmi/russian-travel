@@ -1,0 +1,4 @@
+.places__place_image {
+    width: 100%;
+    object-fit: cover;
+  }

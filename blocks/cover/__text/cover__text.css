@@ -1,0 +1,21 @@
+.cover__text {
+    padding: 312px 245px;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover__text{
+        padding: 232px 195px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .cover__text {
+        padding: 115px 104px;
+    }
+}
+
+@media (max-width: 767px) {
+    .cover__text {
+        padding: 33px 16px;
+    }
+}

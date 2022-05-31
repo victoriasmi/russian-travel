@@ -1,0 +1,19 @@
+.places__place_website {
+    font-size: 18px;
+    line-height: 1.2;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 456px;
+    justify-self: left;
+    margin-top: auto;
+}
+
+@media (max-width: 767px) {
+    .places__place_website {
+        padding: 0 16px 0 16px;
+    }
+}

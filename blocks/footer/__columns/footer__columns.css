@@ -1,0 +1,16 @@
+.footer__columns {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .footer__columns {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        gap: 48px;
+    }
+}
+
