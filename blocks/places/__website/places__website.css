@@ -1,4 +1,4 @@
-.places__place_website {
+.places__website {
     font-size: 18px;
     line-height: 1.2;
     list-style: none;
@@ -13,7 +13,7 @@
 }
 
 @media (max-width: 767px) {
-    .places__place_website {
+    .places__website {
         padding: 0 16px 0 16px;
     }
 }

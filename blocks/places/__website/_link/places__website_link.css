@@ -1,4 +1,4 @@
-.places__place_website_link {
+.places__website_link {
     font-size: 18px;
     line-height: 1.2;
     text-decoration: none;
@@ -10,6 +10,6 @@
     transform: 2s ease-in;
 }
 
-.places__place_website_link:hover {
+.places__website_link:hover {
     opacity: 0.8;
 }

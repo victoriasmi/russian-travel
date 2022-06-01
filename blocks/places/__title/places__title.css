@@ -1,4 +1,4 @@
-.places__place_title {
+.places__title {
     font-size: 72px;
     line-height: 1.05;
     margin: 0;
@@ -9,14 +9,14 @@
 }
 
 @media (max-width: 1023px) {
-  .places__place_title {
+  .places__title {
     font-size: 42px;
     line-height: 1.1;
 }
 }
 
 @media (max-width: 767px) {
-    .places__place_title {
+    .places__title {
     max-width: 288px;
     font-size: 32px;
     line-height: 1.1;
