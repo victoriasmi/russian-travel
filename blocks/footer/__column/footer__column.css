@@ -12,6 +12,8 @@
     .footer__column {
         flex-direction: column;
         flex-wrap: wrap;
+        justify-content: left;
+        text-align: left;
         gap: 32px;
         min-width: 186px;
         padding: 64px auto 24px 16px;
