@@ -6,6 +6,8 @@
     text-decoration: none;
     color: #FFFFFF;
     text-align: center; 
+    box-sizing: border-box;
+    margin: 0;
 }
 
 
@@ -15,4 +17,6 @@
         line-height: 1; 
     }
 }
+
+
 
