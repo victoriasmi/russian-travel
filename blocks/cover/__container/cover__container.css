@@ -6,7 +6,7 @@
     width: 100%;
     z-index: 0;
     overflow: hidden;
-    margin: 0 auto;
+    margin: 0;
 }
 
 .cover__container:before {
@@ -28,4 +28,3 @@
 .cover__container:hover:before {
     opacity: 0.8;
 }
-

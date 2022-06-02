@@ -8,6 +8,8 @@
     text-align: center;
     box-sizing: border-box;
     margin: 0;
+    max-width: 560px;
+    align-self: center;
 }
 
 
@@ -15,6 +17,7 @@
     .cover__title {
         font-size: 32px;
         line-height: 1; 
+        max-width: 288px;
     }
 }
 
