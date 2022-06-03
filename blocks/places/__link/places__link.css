@@ -5,11 +5,7 @@
     color: #FFFFFF;
     font-weight: 400;
     font-style: normal;
+    text-decoration: underline;
     margin: 0;
     padding: 0;
-    transform: 2s ease-in;
-}
-
-.places__link:hover {
-    opacity: 0.8;
 }

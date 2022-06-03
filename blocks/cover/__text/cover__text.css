@@ -1,16 +1,15 @@
 .cover__text {
-    padding: 312px 245px;
+    padding: 245px 312px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     flex-wrap: wrap;
-    box-sizing: content-box;
     gap: 32px;
 }
 
 @media screen and (max-width: 1279px) {
-    .cover__text{
-        padding: 232px 195px;
+    .cover__text {
+        padding: 195px 232px;
     }
 }
 
@@ -23,5 +22,6 @@
 @media (max-width: 767px) {
     .cover__text {
         padding: 33px 16px;
+        gap: 16px;
     }
 }

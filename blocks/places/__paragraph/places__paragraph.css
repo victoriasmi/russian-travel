@@ -5,25 +5,23 @@
     list-style: none;
     font-style: normal;
     font-weight: 400;
-    line-height: 1.7;
+    line-height: 1.63;
     padding: 0;
     margin: 0;
     gap: 26px;
+    grid-area: places__paragraph;
 }
+
 
 @media (max-width: 1023px) {
     .places__paragraph {
-    font-size: 16px;
-    line-height: 1.7;
-    gap: 25px;
-}
+        font-size: 16px;
+        gap: 25px;
+    }
 }
 
 @media (max-width: 767px) {
     .places__paragraph {
-        font-size: 16px;
-        line-height: 1.7;
-        gap: 25px;
         padding: 0 16px 0 16px;
     }
 }

@@ -6,18 +6,18 @@
 
 @media screen and (max-width: 1279px) {
   .footer {
-      padding: 92px 48px 24px 48px;
+    padding: 92px 48px 24px 48px;
   }
 }
 
 @media (max-width: 1023px) {
   .footer {
-      padding: 88px 24px 24px 24px;
+    padding: 88px 24px 24px 24px;
   }
 }
 
 @media (max-width: 767px) {
   .footer {
-      padding: 64px auto 24px 16px;
+    padding: 64px 0 24px 16px;
   }
 }

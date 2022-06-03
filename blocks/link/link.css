@@ -1,3 +1,8 @@
 .link {
-    text-decoration: underline;
+  opacity: 1;
+  transform: 2s ease-in;
+}
+
+.link:hover {
+  opacity: 0.8;
 }

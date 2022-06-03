@@ -1,7 +1,7 @@
 .page {
   background-color: #2A2C2F;
   background-size: cover;
-  font-family: 'Inter';
+  font-family: 'Inter', Arial, sans-serif;
   color: #FFFFFF;
   box-sizing: border-box;
   margin: auto;
