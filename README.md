@@ -1,21 +1,21 @@
-# Путешествие по России
+# [Travel in Russia](https://victoriasmi.github.io/russian-travel/index.html)
 
-### Обзор
+**Table of Contents**: 
+* About Project
+* Technologies
+* Instructions
 
-* Описание проекта и его функциональности
-* Cтек
-* Ссылка
+**About Project**
 
-**Описание проекта и его функциональности**
+Website about traveling through Russia. It holds a list of selected places for travel and exploration. 
+You can find there short descriptions of recommended places and link to recources were you can find details and plan your trip.
 
-Сайт о путешествиях по России. Мы выбрали и описали некоторые интересные места, достойные вашего отпуска.
-Сайт содержит краткие описания интересных локаций и ссылки на ресурсы, где можно лучше ознакомиться с местами и спланировать поездку. 
+**Technologies**
 
-**Стек**
+* HTML
+* CSS
 
-HTML. CSS. 
+**Instructions**
 
-**Ссылка**
-
-Ссылка на [GitHub Pages](https://victoriasmi.github.io/russian-travel/index.html)
+Link to [GitHub Pages](https://victoriasmi.github.io/russian-travel/index.html)
 
