@@ -1,4 +1,4 @@
-# [Travel in Russia](https://victoriasmi.github.io/russian-travel/index.html)
+# [Travel through Russia](https://victoriasmi.github.io/russian-travel/)
 
 **Table of Contents**: 
 * About Project
@@ -19,5 +19,5 @@ You can find there short descriptions of recommended places and link to recource
 
 **Instructions**
 
-Link to [GitHub Pages](https://victoriasmi.github.io/russian-travel/index.html)
+Link to [GitHub Pages](https://victoriasmi.github.io/russian-travel/)
 
